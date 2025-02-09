@@ -34,6 +34,7 @@ export default function App() {
               class="refresh_link"
               href="https://veil.exchange"
               onclick="window.location.reload(true);"
+              target="_blank"
             >
               refresh the page
             </a>{" "}
